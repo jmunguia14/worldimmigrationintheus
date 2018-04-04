@@ -1,0 +1,23 @@
+#container {
+    height: 500px; 
+    width: 800px; 
+    margin:  auto; 
+}
+
+#container1 {
+    height: 500px; 
+    width: 800px; 
+    margin:  auto; 
+}
+.highcharts-tooltip>span {
+    padding: 10px;
+    white-space: normal !important;
+    width: 200px;
+}
+
+.loading {
+    margin-top: 10em;
+    text-align: center;
+    color: gray;
+}
+
