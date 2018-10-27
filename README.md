@@ -10,6 +10,11 @@ Features:
   - Use the single U.S maps to see how many immigrants from the world live in that state and the % out the total population.
   
   
+ Languages/libraies used:  Javascript, D3.js, HTML, CSS.
+  
+  Data format: csv 
+  
+  
   
   Interesting Facts Found in the Project:
       
